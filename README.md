@@ -55,9 +55,6 @@ j) Use the trained models on the new dataset to predict:
 - Loan amounts
 - Loan status
 
-## Usage
 
-Ensure you have the required dependencies installed:
 
-```bash
-pip install -r requirements.txt
+
